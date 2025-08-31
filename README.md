@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-![Demo](./dashboard.png)
-
 This project focuses on analyzing UK train rides using raw railway data. The analysis includes statistical insights, a structured data model, visualizations, and a dashboard to better understand train ride patterns in the UK.
+
+![Demo](./dashboard.png)
 
 ## Repository Structure
 
